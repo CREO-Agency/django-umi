@@ -1,0 +1,3 @@
+Simply a demonstration of how to inject arbitrary methods onto the django user model.
+
+This can be easily applied to any other model as necessary in particular group.
